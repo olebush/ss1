@@ -1,0 +1,97 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 629px;
+    background: #FFFFFF;
+}
+
+#logo {
+    width: 126.4px;
+    height: 40px;
+    margin: 38px 0 0 58px;
+}
+
+.made-by {
+    position: absolute;
+    width: 60px;
+    height: 18px;
+    font-size: 16px;
+    line-height: 17px;
+    letter-spacing: -0.006em;
+    color: #A259FF;
+    margin: 217px 0 0 233px;
+}
+
+.name {
+    position: absolute;
+    width: 576px;
+    height: 86px;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: -0.006em;
+    color: #292929;
+    margin: 196px 0px 0px 412px;
+}
+
+.position {
+    position: absolute;
+    width: 390px;
+    height: 36px;
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    color: #4F4F4F;
+    margin: 302px 0 0 414px ;
+}
+
+.links-line {
+    position: absolute;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.006em;
+    height: 27px;
+    vertical-align: baseline;
+    margin-top: 405px;
+}
+
+.twitter {
+    width: 237px;
+    margin: 0 0 0 414px;
+    text-decoration: none;
+    color: #1ABCFE;
+    }
+
+.dribbble {
+    width: 229px;
+    margin: 0 0 0 70px;
+    text-decoration: none;
+    color: #1ABCFE;
+ }
+
+.kshitij {
+    width: 92px;
+    margin: 0 0 0 70px;
+    text-decoration: none;
+    color: #1ABCFE;
+}
+
+.conclusion {
+    position: absolute;
+    width: 637px;
+    height: 23px;
+    font-size: 20px;
+    line-height: 21px;
+    letter-spacing: -0.006em;
+    color: #696969;
+    margin: 555px 0 0 414px;
+}
+
+@font-face {
+    font-family: Larsseit;
+    src: url('fonts\Larsseit.woff2')
+           format('woff2'),
+         url('fonts\Larsseit.woff')
+           format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
